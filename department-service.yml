@@ -1,6 +1,6 @@
 spring:
   boot:
-    message: Hello, Department Service Updated
+    message: Hello, Department Service Spring Cloud Bus Demo
   datasource:
     url: jdbc:postgresql://localhost:5432/db_department
     username: postgres
