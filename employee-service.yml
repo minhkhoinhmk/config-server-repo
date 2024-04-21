@@ -2,6 +2,8 @@ server:
   port: 8090
 
 spring:
+  boot:
+    message: Hello, Employee Service
   datasource:
     url: jdbc:postgresql://localhost:5433/db_employee
     username: postgres
