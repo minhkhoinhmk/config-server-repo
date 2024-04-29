@@ -3,7 +3,7 @@ server:
 
 spring:
   boot:
-    message: Hello, Employee Service Spring Cloud Bus
+    message: Hello, Employee Service Spring Cloud Bus Updated
   datasource:
     url: jdbc:postgresql://localhost:5433/db_employee
     username: postgres
